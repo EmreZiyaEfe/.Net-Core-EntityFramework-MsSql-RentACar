@@ -1,5 +1,7 @@
 ﻿using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -22,6 +24,7 @@ namespace Business.Concrete
 
         public IResult Add(Brand brand)
         {
+            ValidationTool.Validate(new BrandValidator(), brand);
             _brandDal.Add(brand);
             return new SuccessResult(Messages.BrandAdded);
         }
@@ -41,7 +44,7 @@ namespace Business.Concrete
         // Select * from Brands where BrandId = 3
         public IDataResult<Brand> GetById(int brandId)
         {
-            return new SuccessDataResult<Brand>(_brandDal.Get(b=>b.BrandId == brandId));
+            return new SuccessDataResult<Brand>(_brandDal.Get(b => b.BrandId == brandId));
         }
 
         public IResult Update(Brand brand)

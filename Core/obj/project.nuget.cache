@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fKLxaQ7dqLcDzSOXtpORvkR8wA8NozIFlUVxufBDgN0laIK/tVeYp/W4noLs8KG84Z1AWXZbvKsEzrUXeiOqnQ==",
+  "dgSpecHash": "WtptM77X5OqwIeD2fEqq3815K/AooXdCs1ctjwwwPBjDvujUYvnaugIRT+UYUfGvuOyFpYQZSPDYRsud1+000A==",
   "success": true,
   "projectFilePath": "C:\\Users\\emrez\\source\\repos\\RentACar\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\emrez\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\emrez\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\emrez\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\emrez\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

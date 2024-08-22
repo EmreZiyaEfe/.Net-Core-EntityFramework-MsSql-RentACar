@@ -1,15 +1,20 @@
 ﻿using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using DataAccess.Concrete.InMemory;
 using Entities.Concrete;
 using Entities.DTOs;
+using FluentValidation;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ValidationException = FluentValidation.ValidationException;
 
 namespace Business.Concrete
 {
@@ -54,11 +59,8 @@ namespace Business.Concrete
 
         public IResult Add(Car car)
         {
-            //business codes
-            if(car.DailyPrice < 1000)
-            {
-                return new ErrorResult(Messages.DailyPriceInvalid);
-            }
+
+            ValidationTool.Validate(new CarValidator(), car);
 
             _carDal.Add(car);
 
