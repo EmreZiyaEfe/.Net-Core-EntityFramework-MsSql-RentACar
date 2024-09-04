@@ -35,5 +35,8 @@ namespace Business.Constants
         public static string CarImageAdded = "Resim eklendi";
         public static string CarImageDeleted = "Resim silindi";
         public static string CarImageUpdated = "Resim güncellendi";
+        public static string CarImagesListed = "Araç resimleri listelendi";
+        public static string FileNotFound = "Dosya bulunamadı";
+        public static string CarImageCountError = "Araç resim sayısı en fazla 5 olabilir";
     }
 }
