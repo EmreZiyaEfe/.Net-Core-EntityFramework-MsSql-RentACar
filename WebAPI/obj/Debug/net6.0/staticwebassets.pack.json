@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\DefaultImage.jpg",
+      "PackagePath": "staticwebassets\\DefaultImage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\Uploads\\Images1cf90a64-5066-4499-971f-f684310c261b.jfif",
+      "PackagePath": "staticwebassets\\Uploads\\Images1cf90a64-5066-4499-971f-f684310c261b.jfif"
+    },
+    {
+      "Id": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\Uploads\\Images46d2cf55-34c4-46eb-878b-7c2a899f22fc.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images46d2cf55-34c4-46eb-878b-7c2a899f22fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\Uploads\\Images4f5d6818-5740-484d-b5f6-23e6b98763a3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images4f5d6818-5740-484d-b5f6-23e6b98763a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\Uploads\\Images8a8e3bbc-7e41-467f-a130-31450829ac13.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images8a8e3bbc-7e41-467f-a130-31450829ac13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\Uploads\\Images8bb26010-cc29-48d7-925f-16c20bd32b25.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images8bb26010-cc29-48d7-925f-16c20bd32b25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\Uploads\\Imagese672fb00-54bd-4a5f-9092-4b44a5ec3709.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Imagese672fb00-54bd-4a5f-9092-4b44a5ec3709.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\images\\2dd12731-c457-4229-84f3-18469d6aad3d.jfif",
+      "PackagePath": "staticwebassets\\images\\2dd12731-c457-4229-84f3-18469d6aad3d.jfif"
+    },
+    {
+      "Id": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\images\\59c51f96-958e-4b29-867d-d68747ecb65d.jpg",
+      "PackagePath": "staticwebassets\\images\\59c51f96-958e-4b29-867d-d68747ecb65d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\images\\5b435bdb-6879-4289-8304-7fe7190c3e77.jpg",
+      "PackagePath": "staticwebassets\\images\\5b435bdb-6879-4289-8304-7fe7190c3e77.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\images\\bb7f17d5-4e79-4126-a95a-31672ed385ac.jpg",
+      "PackagePath": "staticwebassets\\images\\bb7f17d5-4e79-4126-a95a-31672ed385ac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\images\\c224119c-e31e-4c92-a393-9b6d20d78b8e.jpg",
+      "PackagePath": "staticwebassets\\images\\c224119c-e31e-4c92-a393-9b6d20d78b8e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\images\\f79878b3-5721-4730-b8e1-2c9b41e88afd.jpg",
+      "PackagePath": "staticwebassets\\images\\f79878b3-5721-4730-b8e1-2c9b41e88afd.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebAPI.props",
+      "PackagePath": "build\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebAPI.props",
+      "PackagePath": "buildTransitive\\WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
