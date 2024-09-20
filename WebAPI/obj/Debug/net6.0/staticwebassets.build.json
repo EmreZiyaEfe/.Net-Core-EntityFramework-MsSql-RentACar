@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ilrrES83csibulCg7SfxhQg9lEM/KG9d54u5VmKZ+8U=",
+  "Hash": "mbDCT03au6lgYyDNcQH+QTsWSt7mpzClhxVBYZKQtKM=",
   "Source": "WebAPI",
   "BasePath": "_content/WebAPI",
   "Mode": "Default",
@@ -219,6 +219,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\Images8bb26010-cc29-48d7-925f-16c20bd32b25.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\Uploads\\Images98a1fdee-c287-4f11-b3dd-7135d108e452.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "Uploads/Images98a1fdee-c287-4f11-b3dd-7135d108e452.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Images98a1fdee-c287-4f11-b3dd-7135d108e452.jpg"
     },
     {
       "Identity": "C:\\Users\\emrez\\source\\repos\\RentACar\\WebAPI\\wwwroot\\Uploads\\Imagese672fb00-54bd-4a5f-9092-4b44a5ec3709.jpg",

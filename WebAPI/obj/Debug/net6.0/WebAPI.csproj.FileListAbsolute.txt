@@ -78,3 +78,7 @@ C:\Users\emrez\source\repos\RentACar\WebAPI\bin\Debug\net6.0\Microsoft.Extension
 C:\Users\emrez\source\repos\RentACar\WebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\emrez\source\repos\RentACar\WebAPI\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\emrez\source\repos\RentACar\WebAPI\bin\Debug\net6.0\WebAPI.staticwebassets.runtime.json
+C:\Users\emrez\source\repos\RentACar\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\emrez\source\repos\RentACar\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\emrez\source\repos\RentACar\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\emrez\source\repos\RentACar\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
