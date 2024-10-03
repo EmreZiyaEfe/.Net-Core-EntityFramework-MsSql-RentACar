@@ -71,3 +71,7 @@ C:\Users\emrez\source\repos\RentACar\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNet
 C:\Users\emrez\source\repos\RentACar\ConsoleUI\bin\Debug\net6.0\System.IO.Pipelines.dll
 C:\Users\emrez\source\repos\RentACar\ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\emrez\source\repos\RentACar\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\emrez\source\repos\RentACar\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Users\emrez\source\repos\RentACar\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\emrez\source\repos\RentACar\ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\emrez\source\repos\RentACar\ConsoleUI\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
