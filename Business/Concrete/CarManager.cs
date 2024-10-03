@@ -29,6 +29,7 @@ namespace Business.Concrete
             _carDal = carDal;
         }
 
+        [CacheAspect] //key, value
         public IDataResult<List<Car>> GetAll()
         {
             //İş kodları
